@@ -1,5 +1,5 @@
-# tf_model_quant
-Model quantization using TFLite example. See the documentation for more information: 
+# tflite-quantization
+Model quantization using TFLite.
 
 ### Installation
 ```
