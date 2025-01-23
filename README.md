@@ -1,5 +1,7 @@
 # tflite-quantization
-Forked and adjusted from https://github.com/sanchit88/tf_model_quant. Model quantization using TFLite.
+Forked and adjusted from https://github.com/sanchit88/tf_model_quant. Model quantization using TFLite. 
+
+You can convert models with `model_optimization_tflite.ipynb`.
 
 ### Installation
 ```
