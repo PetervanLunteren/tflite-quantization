@@ -1,7 +1,7 @@
 # tflite-quantization
 Forked and adjusted from https://github.com/sanchit88/tf_model_quant. Model quantization using TFLite. 
 
-You can convert models with `model_optimization_tflite.ipynb`.
+First train a `.h5` model in the conda env below, then quantise with `model_optimization_tflite.ipynb`.
 
 ### Installation
 ```
