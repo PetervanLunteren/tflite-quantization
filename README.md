@@ -15,3 +15,8 @@ pip install protobuf==3.20.*
 pip install h5py==2.10.0 --force-reinstall
 pip install scikit-learn
 ```
+
+### open notebook
+```
+model_optimization_tflite.ipynb
+```
