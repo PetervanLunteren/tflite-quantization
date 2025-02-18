@@ -3,7 +3,7 @@ Forked and adjusted from https://github.com/sanchit88/tf_model_quant. Model quan
 
 First train a `.h5` model in the conda env below, then quantise with `model_optimization_tflite.ipynb`.
 
-### Installation
+### Installation (on Windows)
 ```
 git clone https://github.com/PetervanLunteren/tflite-quantization.git
 cd tflite-quantization
