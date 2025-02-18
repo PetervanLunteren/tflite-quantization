@@ -5,6 +5,7 @@ First train a `.h5` model in the conda env below, then quantise with `model_opti
 
 ### Installation
 ```
+git clone https://github.com/PetervanLunteren/tflite-quantization.git
 cd tflite-quantization
 conda create --name quant_env -y
 conda activate quant_env
